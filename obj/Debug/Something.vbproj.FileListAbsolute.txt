@@ -1,0 +1,14 @@
+C:\Users\CMP_TaSharma\source\repos\Something\obj\Debug\Something.frmMain.resources
+C:\Users\CMP_TaSharma\source\repos\Something\obj\Debug\Something.Form2.resources
+C:\Users\CMP_TaSharma\source\repos\Something\obj\Debug\Something.Form3.resources
+C:\Users\CMP_TaSharma\source\repos\Something\obj\Debug\Something.Resources.resources
+C:\Users\CMP_TaSharma\source\repos\Something\obj\Debug\Something.vbproj.GenerateResource.cache
+C:\Users\CMP_TaSharma\source\repos\Something\obj\Debug\Something.vbproj.CoreCompileInputs.cache
+C:\Users\CMP_TaSharma\source\repos\Something\bin\Debug\Something.exe.config
+C:\Users\CMP_TaSharma\source\repos\Something\bin\Debug\Something.exe
+C:\Users\CMP_TaSharma\source\repos\Something\bin\Debug\Something.pdb
+C:\Users\CMP_TaSharma\source\repos\Something\bin\Debug\Something.xml
+C:\Users\CMP_TaSharma\source\repos\Something\obj\Debug\Something.exe
+C:\Users\CMP_TaSharma\source\repos\Something\obj\Debug\Something.xml
+C:\Users\CMP_TaSharma\source\repos\Something\obj\Debug\Something.pdb
+C:\Users\CMP_TaSharma\source\repos\Something\obj\Debug\Something.Form4.resources
